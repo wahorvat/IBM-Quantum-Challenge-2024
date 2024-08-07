@@ -1,3 +1,3 @@
-# Qiskit codes
+# IBM Quantum Challenge 2024
 
-This repo contains a collection of Qiskit codes for IBM Quantum Challenge and various quantum algorithms. Additionally, implementation of quantum algorithms and simulations are applied to physical systems with Qiskit Nature and Aer. 
+This repo contains solution notebooks to the IBM Quantum Challenge labs. The focus of the 2024 challenge was to test Qiskit SDK 1.0 and develop solutions applicatble utility-scale quantum experiments.
